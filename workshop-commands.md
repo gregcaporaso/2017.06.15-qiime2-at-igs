@@ -5,7 +5,7 @@ In this tutorial, you'll run a subset of the [QIIME 2 "Moving Pictures of the Hu
 Load the interactive QIIME 2 environment (commands provided by Josh Orvis). This will activate the QIIME 2 IGS Docker container and will put you in its root (`/`) directory.
 
 ```bash
-git clone https://github.com/IGS/Chiron.git
+git clone https://github.com/IGS/Chiron.git # You don't need to run this if you ran it during Josh's session. 
 ./Chiron/bin/qiime2_interactive
 ```
 
